@@ -18,7 +18,7 @@ public class Proyecto01 {
         System.out.println("Ejemplo de Java\n" +
 "Manejado desde GitHub\n" +
 "Versionado a través de Git\n" +
-"Creado por <ubicar su usuario de github>");
+"Creado por <Johao-08>");
         
       
     }
